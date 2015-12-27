@@ -4513,7 +4513,7 @@
 						DevelopmentTeam = UW37QL9ULT;
 					};
 					E7E25AA9160D45E5007171E1 = {
-						DevelopmentTeam = UW37QL9ULT;
+						DevelopmentTeam = NNXMD286DC;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
 								enabled = 0;
