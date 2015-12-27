@@ -407,7 +407,7 @@ NSString *const RMVisionModule_GPUImageExample  = @"GPUImageExample";
     // Commit the configuration!
     [self.session commitConfiguration];
     
-    self.videoPreviewLayer = [AVCaptureVideoPreviewLayer layerWithSession:self.session];
+    self.videoPreviewLayer = (id)[AVCaptureVideoPreviewLayer layerWithSession:self.session];
     
     [self.session startRunning];
     
